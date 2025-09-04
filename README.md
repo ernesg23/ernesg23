@@ -1,4 +1,4 @@
-# Hi there 👋 i'm Ernesto Gallego im Gay
+# Hi there 👋 i'm Ernesto Gallego
 ### Developer and Secondary School Student FROM 🇦🇷
 
 Now studying 😎
