@@ -12,7 +12,7 @@ Now studying 😎
     <img src="https://img.shields.io/badge/PHP-316192?style=for-the-badge&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
- 
+    <img src="https://img.shields.io/badge/Monogame-E73C00?style=for-the-badge&logo=monogame&logoColor=white" />
 </div>
 
 <div align="center">
