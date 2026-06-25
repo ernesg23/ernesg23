@@ -26,7 +26,6 @@ Now studying 😎
 <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Monogame-E73C00?style=for-the-badge&logo=monogame&logoColor=white" />
-    PHPMyAdmin - Apache - React - Vite - NodeJS - pnpm - npm - streamlit - grok
 </div>
 
 <div align="center">
